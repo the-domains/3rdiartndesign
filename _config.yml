@@ -1,4 +1,3 @@
-layout_spectrum: 0.08452659635804594
 typography_spectrum: 0.9983892121817917
 color:
   brandStrength: 0.8609612626023591
@@ -11,5 +10,8 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+layout_spectrum: 0.08452659635804594
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7e36668-9745-4d0f-81fc-80fb23159762.png
 name: 3rdiartndesign
 title: my wheelhouse
